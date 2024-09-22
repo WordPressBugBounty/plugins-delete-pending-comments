@@ -1,0 +1,1 @@
+# plugins-delete-pending-comments
